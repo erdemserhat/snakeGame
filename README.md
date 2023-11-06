@@ -2,6 +2,11 @@
 
 This project is a simple Snake Game implemented in Java. It includes a graphical user interface with game mechanics and features. The game allows you to control a snake to eat apples and grow while avoiding collisions with the walls and itself.
 
+
+https://github.com/erdemserhat/snakeGame/assets/116950260/753e62c2-0074-4d8c-9da3-4903a001587f
+
+
+
 ## Game Features
 
 - Control the snake's direction using arrow keys (Up, Down, Left, Right).
